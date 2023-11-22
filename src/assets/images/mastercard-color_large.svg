@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="44" viewBox="0 0 68 44">
+  <g id="mastercard-color_large" transform="translate(0.405 -0.396)">
+    <rect id="card_bg" width="68" height="44" rx="4" transform="translate(-0.405 0.396)" fill="#f2f0ec"/>
+    <g id="mastercard" transform="translate(6.509 4.479)">
+      <g id="Group" opacity="0">
+        <rect id="Rectangle" width="54.185" height="35.834" fill="#fff"/>
+      </g>
+      <rect id="Rectangle-2" data-name="Rectangle" width="14.292" height="23.348" transform="translate(19.947 6.243)" fill="#f26122"/>
+      <path id="Path" d="M18.433,14.852a14.81,14.81,0,0,1,5.6-11.674,14.852,14.852,0,1,0,0,23.348A14.81,14.81,0,0,1,18.433,14.852Z" transform="translate(3.053 3.065)" fill="#ea1d25"/>
+      <path id="Shape" d="M.7.576H.6V0h.14L.923.406,1.092,0h.14V.573h-.1V.14L.98.518H.868L.7.14V.574ZM.28.574H.2V.1H0V0H.49V.1H.28V.573Z" transform="translate(49.398 26.54)" fill="#f69e1e"/>
+      <path id="Path-2" data-name="Path" d="M24.02,14.842A14.852,14.852,0,0,1,0,26.516,14.852,14.852,0,0,0,2.492,5.674,14.558,14.558,0,0,0,0,3.168,14.852,14.852,0,0,1,24.02,14.842Z" transform="translate(27.086 3.075)" fill="#f69e1e"/>
+    </g>
+  </g>
+</svg>

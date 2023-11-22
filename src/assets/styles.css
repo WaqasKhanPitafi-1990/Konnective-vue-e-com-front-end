@@ -1,0 +1,124 @@
+@media (min-width: 1300px) {
+  .container,
+  .container-sm,
+  .container-md,
+  .container-lg,
+  .container-xl {
+    max-width: 1400px;
+  }
+}
+.carousel-caption {
+  top: 0;
+  bottom: 0;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dropdown-toggle {
+  outline: none;
+  border: none;
+}
+
+.ratings {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.b-rating {
+  border: none;
+}
+/* page Carousal  */
+.carousel-control-next-icon {
+  border-radius: 50%;
+  padding: 5px 10px;
+  font-size: 10px;
+}
+.carousel-control-prev-icon {
+  border-radius: 50%;
+  padding: 5px 10px;
+  font-size: 10px;
+}
+
+/* testimonial slick carousal */
+.slick-prev:before,
+.slick-next:before {
+  border-radius: 50%;
+  padding: 2px 2px;
+  font-size: 10px;
+  border: 1px solid black;
+  color: white;
+}
+.slick-prev:before,
+.slick-next:before {
+  font-family: "slick";
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.3;
+  background-color: black;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.router-link-active {
+  text-decoration: none;
+}
+.nav-link {
+  color: black;
+  font-size: 14px;
+  margin: none;
+  padding: none;
+}
+.nav-items:deep(.nav-link):hover {
+  color: black;
+}
+
+.footer-nav :deep(.nav-link):hover {
+  color: black;
+}
+.page-link {
+  border-radius: 50%;
+}
+.close {
+  background: none;
+  border: none;
+  font-size: 25px;
+}
+
+@media only screen and (max-width: 480px) {
+  .slick-arrow,
+  .slick-prev,
+  .slick-arrow,
+  .slick-next {
+    display: none !important;
+  }
+}
+
+
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  .slick-arrow,
+  .slick-prev,
+  .slick-arrow,
+  .slick-next {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width:1199px) and (min-width:991px){
+  .slick-arrow,
+  .slick-prev,
+  .slick-arrow,
+  .slick-next {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width:2450px) and (min-width:1199px){
+  .slick-arrow,
+  .slick-prev,
+  .slick-arrow,
+  .slick-next {
+    display: none !important;
+  }
+  
+}
